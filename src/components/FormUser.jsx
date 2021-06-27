@@ -22,6 +22,7 @@ export const FormUser = () => {
 			name: Yup.string()
 				.required('Nombre Requerido'),
 			idcard: Yup.string()
+				.min(8, 'Tamaño de la Cédula Inválido')
 				.required('Cédula Requerida'),
 			email: Yup.string().email('Email Inválido').required('Email Requerido'),
 			date: Yup.string()
