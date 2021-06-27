@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/pruebagithub/static/js/main.46d89f96.chunk.js",
-    "main.js.map": "/pruebagithub/static/js/main.46d89f96.chunk.js.map",
+    "main.js": "/pruebagithub/static/js/main.ace3f93b.chunk.js",
+    "main.js.map": "/pruebagithub/static/js/main.ace3f93b.chunk.js.map",
     "runtime-main.js": "/pruebagithub/static/js/runtime-main.0ef31ae4.js",
     "runtime-main.js.map": "/pruebagithub/static/js/runtime-main.0ef31ae4.js.map",
     "static/js/2.7c3f4e3e.chunk.js": "/pruebagithub/static/js/2.7c3f4e3e.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.0ef31ae4.js",
     "static/js/2.7c3f4e3e.chunk.js",
-    "static/js/main.46d89f96.chunk.js"
+    "static/js/main.ace3f93b.chunk.js"
   ]
 }
